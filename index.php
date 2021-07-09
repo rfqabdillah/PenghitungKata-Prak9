@@ -16,7 +16,7 @@
                             <h2>Input Kalimat</h2>
                         </div>
                         <table align="center">
-                            <form class="form" name="form1" action="index.php" method="get">
+                            <form class="form" name="form1" action="hitung.php" method="get">
                                 <label >
                                     <input type="text" name="inp_text" required placeholder="Inputkan Kalimat">
                                 </label>
